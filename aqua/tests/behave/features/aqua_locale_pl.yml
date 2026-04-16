@@ -1,0 +1,8 @@
+localization:
+  locale: PL
+  dictionary:
+    "meniu": "jadłospis"
+    "bauturi": "napoje"
+    "Bauturi Alcoolice": "Napoje Alkoholowe"
+    "Plata": "Zapłać"
+    
