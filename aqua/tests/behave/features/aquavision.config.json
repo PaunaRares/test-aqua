@@ -1,0 +1,30 @@
+{
+	"server":{
+		"url": "https://aquavision.acrom.io"
+	},
+	"aliases": {
+		"agents": {
+			"UK-APP-001": ["App1", "App1-new"],
+			"UK-APP-002": ["App2"],
+			"UK-APP-003": ["App3"]
+		}
+	},
+	"regions":
+	{
+		"top":          "0-100 / 0-50",
+		"top-right":    "50-100 / 0-50",
+		"right":        "50-100 / 0-100",
+		"bottom-right": "50-100 / 50-100",
+		"bottom": 		"0-100 / 50-100",
+		"bottom-left":	"0-50 / 50-100",
+		"Cart":         "0-30 / 0-100",
+		"Header":       "0-100 / 0-10",
+		"MainMenu":     "30-100 / 0-100"
+	},
+	"locator_group": "App-EN",
+	"localization": {
+		"locale": "en"
+	},
+	"default_wait_within_seconds": 5
+}
+
