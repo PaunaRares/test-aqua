@@ -1,0 +1,32 @@
+**/assets/
+**/logs/
+**/reports/
+**/screenshots/
+
+# Exclude archive files
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+*.rar
+*.bz2
+
+# Exclude log files
+*.log
+
+# Exclude executables and binary files
+*.exe
+*.dll
+*.so
+*.bin
+*.out
+*.o
+*.a
+*.dylib
+*.jpg
+*.png
+*.gif
+
+# Exclude shell scripts (optional, if you don't want to include scripts)
+*.sh
