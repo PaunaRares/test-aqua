@@ -1,1 +1,0 @@
-Get-Date -Format "dd-MM-yyyy"
